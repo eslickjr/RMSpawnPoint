@@ -13,7 +13,7 @@
   You'll need to run npm install after downloading for the dependencies and then simply run node index.js to start up the application.
   ## Usage
   You'll follow the prompts as they are presented and answer accordingly. The file will be generated after all questions are answered.
-  https://drive.google.com/file/d/10yoy5cvvBXqWDB9v8Q5G4CI1Ntyi7S-6/view
+  https://drive.google.com/file/d/1yOHycNSV-WgjV55tnhMHO3liNsM4suFW/view?usp=sharing
   ## Contribution
   This project is not intended to have any external contribution.
   ## Test
